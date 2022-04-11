@@ -1,0 +1,10 @@
+.box{
+  border: 1px solid black;
+  width: 500px;
+  height: 300px;
+  margin-top: 10%;
+}
+nav{
+  font-family:bold;
+  font-size: 20px;
+}
